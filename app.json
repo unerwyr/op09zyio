@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "unerwyr/op09zyio",
+  "description": "unerwyr/op09zyio",
   "keywords": [
-    "vmess or vles"
+    "unerwyr/op09zyio"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/unerwyr/op09zyio",
+  "repository": "https://github.com/unerwyr/op09zyio",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
